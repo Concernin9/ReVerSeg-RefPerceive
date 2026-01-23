@@ -1,5 +1,5 @@
 # 🌟 ReVerSeg-RefPerceive  
-**Training-Free Reason-and-Verify Framework for Language-Driven Traffic Video Segmentation**
+✨**Training-Free Reason-and-Verify Framework for Language-Driven Traffic Video Segmentation**
 
 <p align="center">
   <img src="fig/title(1)_01.jpg" width="850">
@@ -25,16 +25,19 @@
   <img src="fig/comp-video-1_01.jpg" width="80%">
 </p>
 
-> **ReVerSeg** introduces a training-free *Reason-and-Verify* inference framework for robust language-driven traffic video segmentation.  
-> We also present **Ref-Perceive**, a large-scale traffic-oriented benchmark with compositional referring instructions and frame-wise pixel annotations.
+> ✨ **ReVerSeg** introduces a training-free *Reason-and-Verify* inference framework for robust language-driven traffic video segmentation.  
+> 🌟 **Ref-Perceive** provides a large-scale traffic-oriented benchmark with compositional referring instructions and frame-wise pixel annotations.
 
-📄 Paper: *Under Review*  
-📦 Dataset & Code: **Will be released after paper acceptance**
+
+<p align="center">
+📄 <b>Paper:</b> Under Review &nbsp;&nbsp;   &nbsp;&nbsp; 📦 <b>Dataset & Code:</b> Will be released after paper acceptance
+</p>
+
 
 
 ---
 
-## 📊 Ref-Perceive Dataset
+## 🌌📊 Ref-Perceive Dataset
 
 <p align="center">
   <img src="fig/zipdataset-0118-2_01(1).jpg" width="80%">
@@ -43,20 +46,20 @@
 
 ---
 
-### 🌍 Geographic & Environmental Diversity
+### 🌍✨ Geographic & Environmental Diversity
 
 <p align="center">
   <img src="fig/world-1_01.jpg" width="65%">
 </p>
 
-Data collected across:
+**Cities Covered**
 
-- 🇺🇸 New York, Chicago, Hollywood  
+- 🇺🇸 New York · Chicago · Hollywood  
 - 🇬🇧 London  
 - 🇸🇬 Singapore  
 - 🇨🇳 Harbin  
 
-Conditions include:
+**Environmental Conditions**
 
 - ☀️ Sunny  
 - 🌧 Rainy  
@@ -65,41 +68,42 @@ Conditions include:
 
 ---
 
-### 📝 Instruction Design
+### 📝✨ Instruction Design
 
 Ref-Perceive adopts **compositional referring expressions**, combining:
 
-- Appearance  
-- Spatial location  
-- Object relations  
-- Temporal consistency  
-- Motion / state  
+- 🎯 Appearance attributes  
+- 📍 Spatial location  
+- 🔗 Object relations  
+- ⏱ Temporal consistency  
+- 🚗 Motion and dynamic states  
 
 Example:
 
-> *"Segment the white sedan driving in the center lane throughout all frames of the video."*
+> ✨ *"Segment the white sedan driving in the center lane throughout all frames of the video."*
 
 This design enforces **instance-level reasoning** and **cross-frame identity consistency**.
 
 ---
 
 
-## 🚀 Performance Highlights
+## 🚀✨ Performance Highlights
 
-ReVerSeg consistently outperforms both:
+ReVerSeg consistently outperforms:
 
-- Image-based referring segmentation methods 
-- Video-based baselines
+- 🖼 Image-based referring segmentation methods  
+- 🎥 Video-based segmentation baselines  
 
 While preserving:
 
-- Zero-shot generalization  
-- Training-free deployment  
-- Backbone-agnostic compatibility
+- 🌟 Zero-shot generalization  
+- ⚡ Training-free deployment  
+- 🧩 Backbone-agnostic compatibility  
+
 
 ---
 
-## 📁 Code & Dataset Release Plan
+## 📦✨ Code & Dataset Release Plan
 
 ⚠️ **Important Notice**
 
