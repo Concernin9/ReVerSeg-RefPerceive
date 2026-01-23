@@ -40,7 +40,7 @@
 ## 🌌📊 Ref-Perceive Dataset
 
 <p align="center">
-  <img src="fig/zipdataset-0118-2_01(1).jpg" width="80%">
+  <img src="fig/zipdataset-0118-2_01(1).jpg" width="70%">
 </p>
 
 
