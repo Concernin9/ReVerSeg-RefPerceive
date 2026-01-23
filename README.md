@@ -29,22 +29,4 @@ It improves robustness against semantic ambiguity and error propagation by intro
 - Two-stage verification (bounding-box verification and mask verification)  
 - Explicit reasoning and correction during inference  
 
-This repository provides:
 
-- ✅ Minimal runnable demo  
-- ✅ Ref-Perceive-mini subset for reviewers  
-- ⏳ Full dataset and full evaluation scripts will be released upon acceptance  
-
-
----
-
-## 📂 Ref-Perceive-mini Dataset (Reviewer Release)
-
-We release a lightweight subset for quick verification:
-
-- 🎬 Short video clips (5 frames per clip)  
-- 🏷️ Language referring instructions  
-- 🖌️ Pixel-level segmentation masks  
-
-📁 Location:
-data/Ref-Perceive-mini/
